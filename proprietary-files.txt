@@ -1,4 +1,4 @@
-# Unpinned blobs from fuxi (OS2.0.203.0.VMCCNXM)
+# Unpinned blobs from fuxi (OS2.0.231.0.VMCCNXM)
 
 # ACDB
 odm/etc/acdbdata/Tutu/Tutu_acdb_cal.acdb:vendor/etc/acdbdata/kalama_mtp/Tutu_acdb_cal.acdb
