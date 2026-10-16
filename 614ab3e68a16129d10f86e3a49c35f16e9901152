@@ -16,6 +16,23 @@
       "message": "testers told me it works well",
       "revId": "614ab3e68a16129d10f86e3a49c35f16e9901152",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4691c6a8_b1e6b935",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2026-10-16T09:44:58Z",
+      "side": 1,
+      "message": "will merge alongside other 2 once others testers confirm",
+      "revId": "614ab3e68a16129d10f86e3a49c35f16e9901152",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
