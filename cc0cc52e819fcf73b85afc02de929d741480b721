@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cedfd40c_236a0aa2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34682
+      },
+      "writtenOn": "2026-10-21T13:50:24Z",
+      "side": 1,
+      "message": "lmk when it\u0027s done, i\u0027m tracking why recording is crashes after aperture config was set right now",
+      "revId": "cc0cc52e819fcf73b85afc02de929d741480b721",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
